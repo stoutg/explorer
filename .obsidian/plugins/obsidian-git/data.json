@@ -25,7 +25,7 @@
   "autoBackupAfterFileChange": true,
   "treeStructure": false,
   "gitServerPasswordSecret": "obsidian-access",
-  "refreshSourceControl": false,
+  "refreshSourceControl": true,
   "basePath": "",
   "differentIntervalCommitAndPush": false,
   "changedFilesInStatusBar": false,

@@ -36,37 +36,9 @@
               "icon": "lucide-file",
               "title": "Intake Manifold"
             }
-          },
-          {
-            "id": "725ced71948cb73c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Todo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Todo"
-            }
-          },
-          {
-            "id": "b6cbb58c13bc9cfa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "History.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "History"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -144,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
+                "file": "Intake Manifold.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,13 +186,23 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "762186a3ab04fc53",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 320.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -230,19 +212,20 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b6cbb58c13bc9cfa",
+  "active": "4090cb2b0b11a96e",
   "lastOpenFiles": [
+    "Todo.md",
+    "Notes.md",
+    "History.md",
     "Specifications.md",
     "2015 Ford Explorer.md",
-    "Todo.md",
     "Intake Manifold.md",
     "Attachments/Pasted image 20261029001941.png",
-    "Notes.md",
     "Attachments/Pasted image 20261028193215.png",
-    "History.md",
     "Attachments",
     "Attachments/Pasted image 20261028175802.png",
     "files"
