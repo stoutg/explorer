@@ -21,3 +21,4 @@ Center console
 coolant flush
 power steering fluid flush
 Window tint
+* Kansas requires at least 35% VLT (visible light transmission)
