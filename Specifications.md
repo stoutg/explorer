@@ -9,6 +9,7 @@ WIX 46935
 * **Viscosity:** SAE 5W-20
 * **Capacity:** 6 quarts (with filter)
 * **Drain Plug Torque:** 20 ft/lbs
+* **Drain Plug:** 15mm
 * **Oil Filter:** [Motorcraft FL-500S](https://www.oreillyauto.com/search/v/a/129948/automotive-suv-2015-ford-explorer?q=motorcraft+fl-500s+oil+filter)
 # Spark Plugs
 * **Torque:** 11 ft-lbs
