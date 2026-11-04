@@ -13,6 +13,7 @@ WIX 46935
 * **Oil Filter:** [Motorcraft FL-500S](https://www.oreillyauto.com/search/v/a/129948/automotive-suv-2015-ford-explorer?q=motorcraft+fl-500s+oil+filter)
 # Spark Plugs
 * **Torque:** 11 ft-lbs
+* installation video https://www.youtube.com/watch?v=I6lB39PsQDs
 # Tires
 * **Size:** 245/55R18
 # Wiper Blades
