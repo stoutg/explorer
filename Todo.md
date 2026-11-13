@@ -12,7 +12,7 @@ new tires
 * [[Specifications#Tires]]
 new driver seat
 * may be able to stitch the tear back together
-Center console
+[[Center console]]
 coolant flush
 power steering fluid flush
 Android auto
