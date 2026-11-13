@@ -5,7 +5,7 @@
 * VIN: 1FM5K8AR3FGB61448
 ### Engine
 * Displacement: 3.7L
-* Cylinders: 6
+* Cylinders: 61FM5K8AR3FGB61448
 * Fuel type: Gas
 ### Transmission
 - Automatic
