@@ -6,6 +6,7 @@
 | 10/28/26 | [Cabin and engine air filters](https://a.co/d/0ai4eW3A)            | 25.80    |
 | 10/28/26 | [Wiper blades](https://a.co/d/03MU4QWo)                            | 24.99    |
 | 11/04/26 | [Spotlight bulb](https://a.co/d/08fv6Vte)                          | 40.43    |
+| 11/13/26 | Center console                                                     | 113.71   |
 # maintenance history 
 
 | Date     | Miles | Description                 |
