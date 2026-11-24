@@ -7,13 +7,16 @@
 | 10/28/26 | [Wiper blades](https://a.co/d/03MU4QWo)                            | 24.99    |
 | 11/04/26 | [Spotlight bulb](https://a.co/d/08fv6Vte)                          | 40.43    |
 | 11/13/26 | Center console                                                     | 113.71   |
+| 11/24/25 | Windshield                                                         | 405.00   |
+|          | Windshield trim                                                    | 100      |
 # maintenance history 
 
-| Date     | Miles | Description                  |
-| -------- | ----- | ---------------------------- |
-| 11/01/26 |       | 3 new wipers                 |
-| 11/01/26 |       | Cabin air filter             |
-| 11/01/26 |       | Engine air filter            |
-| 11/01/26 |       | Removed police partition     |
-| 11/07/26 |       | Replaced the spotlight bulb  |
-| 11/18/26 |       | Installed new center console |
+| Date     | Miles  | Description                  |
+| -------- | ------ | ---------------------------- |
+| 11/01/26 | 78,875 | 3 new wipers                 |
+| 11/01/26 | 78,875 | Cabin air filter             |
+| 11/01/26 | 78,875 | Engine air filter            |
+| 11/01/26 | 78,875 | Removed police partition     |
+| 11/07/26 | 78,875 | Replaced the spotlight bulb  |
+| 11/18/26 | 79,139 | Installed new center console |
+| 11/24/26 |        | New windshield               |
